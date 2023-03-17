@@ -1,9 +1,3 @@
 title: myCustomTitle
 description: myCustomAndDetailedDescription
-plugins:
-  - jekyll-coffeescript
-  - jekyll-default-layout
-  - jekyll-github-metadata
-  - jekyll-optional-front-matter
-  - jekyll-readme-index
-  - jekyll-relative-links
+
