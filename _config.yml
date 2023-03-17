@@ -1,3 +1,5 @@
+title: myCustomTitle
+description: myCustomAndDetailedDescription
 plugins:
   - jekyll-coffeescript
   - jekyll-default-layout
