@@ -1,7 +1,3 @@
-email: roy040707@gmail.com
-url: "roypower6.github.io" 
-twitter_username:
-github_username: roypower6
 plugins:
   - jekyll-coffeescript
   - jekyll-default-layout
