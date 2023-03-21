@@ -1,4 +1,4 @@
-# 이승기 Rhee Seung gi
+# **Résumé of 이승기 Rhee Seung gi** 
 ## **인천대학교 정보통신공학과**
 ### 📞 010-8299-6924
 ### 📧 roy6924@inu.ac.kr
