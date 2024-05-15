@@ -8,6 +8,8 @@
 [📱go instagram](https://www.instagram.com/seunggi860/)
 [🔍go Baekjoon](https://www.acmicpc.net/user/roy6924)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=roy6924)](https://solved.ac/roy6924/)
+
 * * *
 
 
