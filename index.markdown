@@ -1,6 +1,5 @@
 # **<center>Résumé of 이승기 Rhee Seung gi</center>** 
-## **인천대학교 정보통신공학과** 
-<div style="text-align: right">![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Froypower6.github.io&count_bg=%231AD13B&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Page+Hits%21&edge_flat=false)</div>
+## **인천대학교 정보통신공학과** <div style="text-align: right">![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Froypower6.github.io&count_bg=%231AD13B&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Page+Hits%21&edge_flat=false)</div>
 
 
 [![GitHub](https://img.shields.io/badge/My%20Github-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white&link=https://github.com/roypower6?tab=repositories)](https://github.com/roypower6?tab=repositories)
@@ -8,9 +7,7 @@
 [![Gmail](https://img.shields.io/badge/My%20Gmail-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:roy040707@gmail.com)](mailto:roy040707@gmail.com)
 
 
-<div style="text-align: right">[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=roy6924)](https://solved.ac/roy6924/)</div>
-
-* * *
+## <div style="text-align: right">[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=roy6924)](https://solved.ac/roy6924/)</div>
 
 
 #### Certification list
