@@ -35,17 +35,14 @@
 * Not yet
 
 #### ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
-* Auto coin trade bot
+* Web Status Checker
 * 백준 메인 문제풀이 언어
 
 #### ![Go](https://img.shields.io/badge/Go-00ADD8.svg?&style=for-the-badge&logo=Go&logoColor=white)
-* URL checker
-* Banking system
-* Web scrapper
+* Not yet
 
 #### ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
-* Movie scrapper
-* My Website
+* Not yet
 
 #### ![Markdown](https://img.shields.io/badge/Markdown-000000.svg?&style=for-the-badge&logo=Markdown&logoColor=white)
 
