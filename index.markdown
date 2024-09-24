@@ -1,5 +1,8 @@
+<div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=250&text=Résumé%20of%20Rhee&fontColor=d5e6f5&fontAlignY=40&color=gradient&animation=fadeIn&desc=이승기&descAlign=77)
+</div>
+
 ## **인천대학교 정보통신공학과** ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Froypower6.github.io&count_bg=%231AD13B&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Page+Hits%21&edge_flat=false)
 
 
@@ -7,9 +10,11 @@
 [![Instagram](https://img.shields.io/badge/My%20Instagram-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/seunggi860/)](https://www.instagram.com/seunggi860/)
 [![Gmail](https://img.shields.io/badge/My%20Gmail-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:roy040707@gmail.com)](mailto:roy040707@gmail.com)
 
+<div align="center">
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=roy6924)](https://solved.ac/roy6924/)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roypower6&layout=compact&theme=dark)
+</div>
 
 * * *
 
@@ -52,4 +57,3 @@
 * My Résumé Website
 
 * * *
-
