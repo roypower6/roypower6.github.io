@@ -1,7 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=250&text=Résumé%20of%20Rhee&fontColor=d5e6f5&fontAlignY=40&color=gradient&animation=fadeIn&desc=이승기&descAlign=77)
+![header](https://capsule-render.vercel.app/api?type=waving&height=250&text=Résumé%20of%20Rhee&fontColor=d5e6f5&fontAlignY=40&color=gradient&animation=fadeIn&descAlign=77)
 
 
-## **인천대학교 정보통신공학과** ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Froypower6.github.io&count_bg=%231AD13B&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Page+Hits%21&edge_flat=false)
+## **Incheon National University**
+## **Dept. of Information Telecommunication Engineering** ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Froypower6.github.io&count_bg=%231AD13B&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Page+Hits%21&edge_flat=false)
 
 
 [![GitHub](https://img.shields.io/badge/My%20Github-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white&link=https://github.com/roypower6?tab=repositories)](https://github.com/roypower6?tab=repositories)
@@ -51,5 +52,9 @@
 #### ![Markdown](https://img.shields.io/badge/Markdown-000000.svg?&style=for-the-badge&logo=Markdown&logoColor=white)
 
 * My Résumé Website
+
+#### ![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white)
+
+* Solved.ac Viewer App
 
 * * *
