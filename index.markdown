@@ -41,7 +41,7 @@
 #### ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 * Web Status Checker
 * 백준 메인 문제풀이 언어
-* Solved.ac Ranking,Profile Viewer
+* [Solved.ac Ranking,Profile Viewer](https://github.com/roypower6/Solved.ac-API-Study)
 
 #### ![Go](https://img.shields.io/badge/Go-00ADD8.svg?&style=for-the-badge&logo=Go&logoColor=white)
 * Not yet
@@ -51,10 +51,11 @@
 
 #### ![Markdown](https://img.shields.io/badge/Markdown-000000.svg?&style=for-the-badge&logo=Markdown&logoColor=white)
 
-* My Résumé Website
+* [My Résumé Website](https://github.com/roypower6/roypower6.github.io)
 
-#### ![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white)
+#### ![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2.svg?&style=for-the-badge&logo=Dart&logoColor=white)
 
-* Solved.ac Viewer App
+* [Solved.ac Viewer App](https://github.com/roypower6/Solved.ac-Viewer)
+* [Your Finance App](https://github.com/roypower6/your_finance)
 
 * * *
