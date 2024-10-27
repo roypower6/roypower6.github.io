@@ -31,29 +31,27 @@
 
 ## 🏆 Certifications
 
-<div style="display: flex; justify-content: center;">
-  <table>
-    <tr>
-      <td align="center"><b>💻 Business</b></td>
-      <td align="center"><b>📊 Data</b></td>
-      <td align="center"><b>🌐 Network</b></td>
-    </tr>
-    <tr>
-      <td >
-        • 워드프로세서<br>
-        • 컴퓨터활용능력 2급
-      </td>
-      <td>
-        • ADsP (데이터분석 준전문가)<br>
-        • SQLD (SQL 개발자)
-      </td>
-      <td>
-        • 리눅스마스터 2급<br>
-        • 네트워크관리사 2급
-      </td>
-    </tr>
-  </table>
-</div>
+<table style="margin-left: auto; margin-right: auto;">
+  <tr>
+    <td align="center"><b>💻 Business</b></td>
+    <td align="center"><b>📊 Data</b></td>
+    <td align="center"><b>🌐 Network</b></td>
+  </tr>
+  <tr>
+    <td>
+      • 워드프로세서<br>
+      • 컴퓨터활용능력 2급
+    </td>
+    <td>
+      • ADsP (데이터분석 준전문가)<br>
+      • SQLD (SQL 개발자)
+    </td>
+    <td>
+      • 리눅스마스터 2급<br>
+      • 네트워크관리사 2급
+    </td>
+  </tr>
+</table>
 
 ## 💪 Skills & Tools
 
