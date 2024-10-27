@@ -1,61 +1,87 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=250&text=Résumé%20of%20Rhee&fontColor=d5e6f5&fontAlignY=40&color=gradient&animation=fadeIn&descAlign=77)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Welcome%20to%20Rhee's%20Portfolio&fontSize=50&fontColor=ffffff&fontAlignY=40&color=gradient&customColorList=0,2,2,5,30&animation=twinkling" />
+</div>
+
+# 👨‍💻 Rhee's Portfolio
+> Information Telecommunication Engineering Student @ Incheon National University
+
+<div align="center">
+  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/roypower6?tab=repositories)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/seunggi860/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:roy040707@gmail.com)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Froypower6.github.io&count_bg=%231AD13B&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false)
+
+</div>
+
+## 🏆 Certifications
+
+<table align="center">
+  <tr>
+    <td align="center"><b>💻 Business</b></td>
+    <td align="center"><b>📊 Data</b></td>
+    <td align="center"><b>🌐 Network</b></td>
+  </tr>
+  <tr>
+    <td>
+      • 워드프로세서<br>
+      • 컴퓨터활용능력 2급
+    </td>
+    <td>
+      • ADsP (데이터분석 준전문가)<br>
+      • SQLD (SQL 개발자)
+    </td>
+    <td>
+      • 리눅스마스터 2급<br>
+      • 네트워크관리사 2급
+    </td>
+  </tr>
+</table>
+
+## 💪 Skills & Tools
+
+### Development Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=Android%20Studio&logoColor=white)
+
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=white)
+
+## 🚀 Projects
+
+### Flutter Projects
+- **[Solved.ac Viewer App](https://github.com/roypower6/Solved.ac-Viewer)**
+  - 코딩 문제 해결 현황 확인 앱(Baekjoon Online Judge, Solved.ac)
+- **[Your Finance App](https://github.com/roypower6/your_finance)**
+  - 한국은행 API 활용 앱
+- **[Where and Weather](https://github.com/roypower6/Where-and-Weather)**
+  - OpenWeatherMap Free Plan 활용 날씨 확인 앱
+
+### Python Projects
+- **[Web Status Checker](https://github.com/roypower6/NomadCoder-Python-Lecture/blob/main/URL_Checker.py)**
+  - http 공부용 프로젝트
+- **[Solved.ac API Study](https://github.com/roypower6/Solved.ac-API-Study)**
+  - Solved.ac Ranking Viewer
+  - Profile Viewer
+  - Coin Exchange Rate Viewer
+  - Problem Search Program
 
 
-## **Incheon National University**
-## **Dept. of Information Telecommunication Engineering** ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Froypower6.github.io&count_bg=%231AD13B&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Page+Hits%21&edge_flat=false)
 
+## 📊 Coding Stats
 
-[![GitHub](https://img.shields.io/badge/My%20Github-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white&link=https://github.com/roypower6?tab=repositories)](https://github.com/roypower6?tab=repositories)
-[![Instagram](https://img.shields.io/badge/My%20Instagram-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/seunggi860/)](https://www.instagram.com/seunggi860/)
-[![Gmail](https://img.shields.io/badge/My%20Gmail-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:roy040707@gmail.com)](mailto:roy040707@gmail.com)
+<div style="display: flex; justify-content: center; align-items: center;">
+  <a href="https://solved.ac/roy6924">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=roy6924" alt="Solved.ac Profile">
+  </a>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roypower6&layout=compact&theme=tokyonight" alt="Top Languages">
+</div>
 
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=roy6924)](https://solved.ac/roy6924/)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roypower6&layout=compact&theme=dark)
-
-* * *
-
-
-#### Certification list
-* ADsP (데이터분석 준전문가)
-* SQLD (SQL 개발자)
-* 워드프로세서
-* 컴퓨터활용능력 2급
-* 리눅스마스터 2급
-* 네트워크관리사 2급
-
-
-* * *
-
-#### Tools
-![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
-
-
-* * *
-
-#### ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
-* Not yet
-
-#### ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
-* Web Status Checker
-* 백준 메인 문제풀이 언어
-* [Solved.ac Ranking,Profile Viewer](https://github.com/roypower6/Solved.ac-API-Study)
-
-#### ![Go](https://img.shields.io/badge/Go-00ADD8.svg?&style=for-the-badge&logo=Go&logoColor=white)
-* Not yet
-
-#### ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
-* Not yet
-
-#### ![Markdown](https://img.shields.io/badge/Markdown-000000.svg?&style=for-the-badge&logo=Markdown&logoColor=white)
-
-* [My Résumé Website](https://github.com/roypower6/roypower6.github.io)
-
-#### ![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2.svg?&style=for-the-badge&logo=Dart&logoColor=white)
-
-* [Solved.ac Viewer App](https://github.com/roypower6/Solved.ac-Viewer)
-* [Your Finance App](https://github.com/roypower6/your_finance)
-
-* * *
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient&customColorList=0,2,2,5,30" />
+</div>
