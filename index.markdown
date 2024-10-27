@@ -6,37 +6,54 @@
 > Information Telecommunication Engineering Student @ Incheon National University
 
 <div align="center">
-  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/roypower6?tab=repositories)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/seunggi860/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:roy040707@gmail.com)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Froypower6.github.io&count_bg=%231AD13B&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false)
-
+  <a href="https://github.com/roypower6?tab=repositories">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.instagram.com/seunggi860/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="mailto:roy040707@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail">
+  </a>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Froypower6.github.io&count_bg=%231AD13B&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false" alt="Hits">
 </div>
+
+## 📊 Coding Stats
+
+<div style="display: flex; justify-content: center; align-items: center;">
+  <a href="https://solved.ac/roy6924">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=roy6924" alt="Solved.ac Profile">
+  </a>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roypower6&layout=compact&theme=tokyonight" alt="Top Languages">
+</div>
+
 
 ## 🏆 Certifications
 
-<table align="center">
-  <tr>
-    <td align="center"><b>💻 Business</b></td>
-    <td align="center"><b>📊 Data</b></td>
-    <td align="center"><b>🌐 Network</b></td>
-  </tr>
-  <tr>
-    <td>
-      • 워드프로세서<br>
-      • 컴퓨터활용능력 2급
-    </td>
-    <td>
-      • ADsP (데이터분석 준전문가)<br>
-      • SQLD (SQL 개발자)
-    </td>
-    <td>
-      • 리눅스마스터 2급<br>
-      • 네트워크관리사 2급
-    </td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: center;">
+  <table>
+    <tr>
+      <td align="center"><b>💻 Business</b></td>
+      <td align="center"><b>📊 Data</b></td>
+      <td align="center"><b>🌐 Network</b></td>
+    </tr>
+    <tr>
+      <td >
+        • 워드프로세서<br>
+        • 컴퓨터활용능력 2급
+      </td>
+      <td>
+        • ADsP (데이터분석 준전문가)<br>
+        • SQLD (SQL 개발자)
+      </td>
+      <td>
+        • 리눅스마스터 2급<br>
+        • 네트워크관리사 2급
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 💪 Skills & Tools
 
@@ -72,15 +89,6 @@
 
 
 
-## 📊 Coding Stats
-
-<div style="display: flex; justify-content: center; align-items: center;">
-  <a href="https://solved.ac/roy6924">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=roy6924" alt="Solved.ac Profile">
-  </a>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roypower6&layout=compact&theme=tokyonight" alt="Top Languages">
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient&customColorList=0,2,2,5,30" />
