@@ -31,7 +31,7 @@
 
 ## 🏆 Certifications
 
-<table style="margin-left: auto; margin-right: auto;">
+<table style="display: flex; justify-content: center; align-items: center;">
   <tr>
     <td align="center"><b>💻 Business</b></td>
     <td align="center"><b>📊 Data</b></td>
