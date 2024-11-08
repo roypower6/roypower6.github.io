@@ -75,6 +75,8 @@
   - 한국은행 API 활용 앱
 - **[Where and Weather](https://github.com/roypower6/Where-and-Weather)**
   - OpenWeatherMap Free Plan 활용 날씨 확인 앱
+- **[My Movie Base](https://github.com/roypower6/My-Movie-Base)**
+  - TMDB API를 이용한 영화 추천, 검색 앱
 
 ### Python Projects
 - **[Web Status Checker](https://github.com/roypower6/NomadCoder-Python-Lecture/blob/main/URL_Checker.py)**
