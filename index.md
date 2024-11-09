@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Welcome%20to%20Rhee's%20Portfolio&fontSize=50&fontColor=ffffff&fontAlignY=40&color=gradient&customColorList=0,2,2,5,30&animation=twinkling" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Welcome%20to%20Rhee's%20Portfolio&fontSize=50&fontColor=ffffff&fontAlignY=40&color=gradient&customColorList=0,2,2,5,30&animation=twinkling" />
 </div>
 
 # 👨‍💻 Rhee's Portfolio
@@ -20,11 +20,11 @@
 
 ## 📊 Coding Stats
 
-<div style="display: flex; justify-content: center; align-items: center;">
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
   <a href="https://solved.ac/roy6924">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=roy6924" alt="Solved.ac Profile">
   </a>
-  
+  &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roypower6&layout=compact&theme=tokyonight" alt="Top Languages">
 </div>
 
@@ -87,9 +87,13 @@
   - Coin Exchange Rate Viewer
   - Problem Search Program
 
-
-
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient&customColorList=0,2,2,5,30" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=gradient&customColorList=0,2,2,5,30" />
+  
+  <div style="margin-top: -75px; margin-bottom: 30px; color: white;">
+    <p>© 2024 Rhee's Portfolio. All rights reserved.</p>
+    <p>
+      Powered by Github, Made with Markdown
+    </p>
+  </div>
 </div>
