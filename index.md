@@ -77,6 +77,8 @@
   - OpenWeatherMap Free Plan 활용 날씨 확인 앱
 - **[My Movie Base](https://github.com/roypower6/My-Movie-Base)**
   - TMDB API를 이용한 영화 추천, 검색 앱
+- **[Will](https://github.com/roypower6/Will)**
+  - 간단한 Todo 메모 앱
 
 ### Python Projects
 - **[Web Status Checker](https://github.com/roypower6/NomadCoder-Python-Lecture/blob/main/URL_Checker.py)**
