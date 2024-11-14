@@ -55,12 +55,12 @@
 
 ## 💪 Skills & Tools
 
-### Development Tools
+### **Development Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=Android%20Studio&logoColor=white)
 
-### Languages & Frameworks
+### **Languages & Frameworks**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white)
@@ -68,22 +68,22 @@
 
 ## 🚀 Projects
 
-### Flutter Projects
-- **[Solved.ac Viewer App](https://github.com/roypower6/Solved.ac-Viewer)**
+### **Flutter Projects**
+- **📱 [Solved.ac Viewer App](https://github.com/roypower6/Solved.ac-Viewer)**
   - 코딩 문제 해결 현황 확인 앱(Baekjoon Online Judge, Solved.ac)
-- **[Your Finance App](https://github.com/roypower6/your_finance)**
+- **📱 [Your Finance App](https://github.com/roypower6/your_finance)**
   - 한국은행 API 활용 앱
-- **[Where and Weather](https://github.com/roypower6/Where-and-Weather)**
+- **📱 [Where and Weather](https://github.com/roypower6/Where-and-Weather)**
   - OpenWeatherMap Free Plan 활용 날씨 확인 앱
-- **[My Movie Base](https://github.com/roypower6/My-Movie-Base)**
+- **📱 [My Movie Base](https://github.com/roypower6/My-Movie-Base)**
   - TMDB API를 이용한 영화 추천, 검색 앱
-- **[Will](https://github.com/roypower6/Will)**
+- **📱 [Will](https://github.com/roypower6/Will)**
   - 간단한 Todo 메모 앱
 
-### Python Projects
-- **[Web Status Checker](https://github.com/roypower6/NomadCoder-Python-Lecture/blob/main/URL_Checker.py)**
+### **Python Projects**
+- **🌐 [Web Status Checker](https://github.com/roypower6/NomadCoder-Python-Lecture/blob/main/URL_Checker.py)**
   - http 공부용 프로젝트
-- **[Solved.ac API Study](https://github.com/roypower6/Solved.ac-API-Study)**
+- **✏️ [Solved.ac API Study](https://github.com/roypower6/Solved.ac-API-Study)**
   - Solved.ac Ranking Viewer
   - Profile Viewer
   - Coin Exchange Rate Viewer
