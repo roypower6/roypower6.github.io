@@ -1,101 +1,140 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Welcome%20to%20Rhee's%20Portfolio&fontSize=50&fontColor=ffffff&fontAlignY=40&color=gradient&customColorList=0,2,2,5,30&animation=twinkling" />
+  <img width="100%" style="max-width: 1200px; min-width: 300px;" src="https://capsule-render.vercel.app/api?type=waving&height=300&text=Welcome%20to%20Rhee's%20Portfolio&fontSize=55&fontColor=ffffff&fontAlignY=35&color=gradient&customColorList=4,24,40,45,60&animation=twinkling&desc=Information%20Telecommunication%20Engineering%20@%20INU&descAlignY=60&descSize=20" />
 </div>
 
-# 👨‍💻 Rhee's Portfolio
-> Information Telecommunication Engineering Student @ Incheon National University
-
-<div align="center">
-  <a href="https://github.com/roypower6?tab=repositories">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub">
+<div align="center" style="margin: 30px 0;">
+  <a href="https://github.com/roypower6?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://www.instagram.com/seunggi860/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+  &nbsp;
+  <a href="https://www.instagram.com/seunggi860/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram">
   </a>
+  &nbsp;
   <a href="mailto:roy040707@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail">
   </a>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Froypower6.github.io&count_bg=%231AD13B&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false" alt="Hits">
+  &nbsp;
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Froypower6.github.io&count_bg=%231AD13B&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=true" alt="Hits">
 </div>
 
-## 📊 Coding Stats
-
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
-  <a href="https://solved.ac/roy6924">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=roy6924" alt="Solved.ac Profile">
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roypower6&layout=compact&theme=tokyonight" alt="Top Languages">
+<div align="center" style="background: linear-gradient(120deg, #155799, #159957); padding: 40px 20px; border-radius: 15px; margin: 30px 0;">
+  <h2 style="color: white; margin-bottom: 30px;">📊 Coding Stats</h2>
+  <div style="display: flex; justify-content: center; align-items: center; gap: 30px; flex-wrap: wrap;">
+    <a href="https://solved.ac/roy6924" target="_blank">
+      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=roy6924" alt="Solved.ac Profile" style="box-shadow: 0 4px 8px rgba(0,0,0,0.1); border-radius: 10px;">
+    </a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roypower6&layout=compact&theme=tokyonight" alt="Top Languages" style="box-shadow: 0 4px 8px rgba(0,0,0,0.1); border-radius: 10px;">
+  </div>
 </div>
 
+<div style="background: #f8f9fa; padding: 40px 20px; border-radius: 15px; margin: 30px 0;">
+  <h2 align="center" style="margin-bottom: 30px; color: #333;">🏆 Certifications</h2>
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; padding: 0 20px;">
+    <div style="background: white; padding: 20px; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+      <h3 align="center" style="color: #155799;">💻 Business</h3>
+      <ul style="list-style-type: none; padding: 0; color: #444;">
+        <li style="margin: 10px 0;">• 워드프로세서</li>
+        <li style="margin: 10px 0;">• 컴퓨터활용능력 2급</li>
+      </ul>
+    </div>
+    <div style="background: white; padding: 20px; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+      <h3 align="center" style="color: #155799;">📊 Data</h3>
+      <ul style="list-style-type: none; padding: 0; color: #444;">
+        <li style="margin: 10px 0;">• ADsP (데이터분석 준전문가)</li>
+        <li style="margin: 10px 0;">• SQLD (SQL 개발자)</li>
+      </ul>
+    </div>
+    <div style="background: white; padding: 20px; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+      <h3 align="center" style="color: #155799;">🌐 Network</h3>
+      <ul style="list-style-type: none; padding: 0; color: #444;">
+        <li style="margin: 10px 0;">• 리눅스마스터 2급</li>
+        <li style="margin: 10px 0;">• 네트워크관리사 2급</li>
+      </ul>
+    </div>
+  </div>
+</div>
 
-## 🏆 Certifications
-
-<table style="display: flex; justify-content: center; align-items: center;">
-  <tr>
-    <td align="center"><b>💻 Business</b></td>
-    <td align="center"><b>📊 Data</b></td>
-    <td align="center"><b>🌐 Network</b></td>
-  </tr>
-  <tr>
-    <td>
-      • 워드프로세서<br>
-      • 컴퓨터활용능력 2급
-    </td>
-    <td>
-      • ADsP (데이터분석 준전문가)<br>
-      • SQLD (SQL 개발자)
-    </td>
-    <td>
-      • 리눅스마스터 2급<br>
-      • 네트워크관리사 2급
-    </td>
-  </tr>
-</table>
-
-## 💪 Skills & Tools
-
-### **Development Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=Android%20Studio&logoColor=white)
-
-### **Languages & Frameworks**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=white)
-
-## 🚀 Projects
-
-### **Flutter Projects**
-- **📱 [Solved.ac Viewer App](https://github.com/roypower6/Solved.ac-Viewer)**
-  - 코딩 문제 해결 현황 확인 앱(Baekjoon Online Judge, Solved.ac)
-- **📱 [Your Finance App](https://github.com/roypower6/your_finance)**
-  - 한국은행 API 활용 앱
-- **📱 [Where and Weather](https://github.com/roypower6/Where-and-Weather)**
-  - OpenWeatherMap Free Plan 활용 날씨 확인 앱
-- **📱 [My Movie Base](https://github.com/roypower6/My-Movie-Base)**
-  - TMDB API를 이용한 영화 추천, 검색 앱
-- **📱 [Will](https://github.com/roypower6/Will)**
-  - 간단한 Todo 메모 앱
-
-### **Python Projects**
-- **🌐 [Web Status Checker](https://github.com/roypower6/NomadCoder-Python-Lecture/blob/main/URL_Checker.py)**
-  - http 공부용 프로젝트
-- **✏️ [Solved.ac API Study](https://github.com/roypower6/Solved.ac-API-Study)**
-  - Solved.ac Ranking Viewer
-  - Profile Viewer
-  - Coin Exchange Rate Viewer
-  - Problem Search Program
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=gradient&customColorList=0,2,2,5,30" />
+<div style="background: linear-gradient(120deg, #155799, #159957); padding: 40px 20px; border-radius: 15px; margin: 30px 0;">
+  <h2 align="center" style="color: white; margin-bottom: 30px;">💪 Skills & Tools</h2>
   
-  <div style="margin-top: -75px; margin-bottom: 30px; color: white;">
-    <p>© 2024 Rhee's Portfolio. All rights reserved.</p>
-    <p>
-      Powered by Github, Made with Markdown
+  <div align="center" style="margin-bottom: 30px;">
+    <h3 style="color: white;">Development Tools</h3>
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" alt="Git">
+    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white" alt="VS Code">
+    <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=Android%20Studio&logoColor=white" alt="Android Studio">
+  </div>
+
+  <div align="center">
+    <h3 style="color: white;">Languages & Frameworks</h3>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white" alt="Flutter">
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white" alt="Dart">
+    <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white" alt="Markdown">
+  </div>
+</div>
+
+<div style="background: #f8f9fa; padding: 40px 20px; border-radius: 15px; margin: 30px 0;">
+  <h2 align="center" style="margin-bottom: 30px; color: #333;">🚀 Projects</h2>
+
+  <div style="margin-bottom: 40px;">
+    <h3 style="color: #155799; border-bottom: 2px solid #155799; padding-bottom: 10px;">Flutter Projects</h3>
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; padding: 20px 0;">
+      <div style="background: white; padding: 20px; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+        <h4 style="color: #333;">📱 Solved.ac Viewer App</h4>
+        <p style="color: #444;">코딩 문제 해결 현황 확인 앱(Baekjoon Online Judge, Solved.ac)</p>
+        <a href="https://github.com/roypower6/Solved.ac-Viewer" style="color: #155799;" target="_blank">View Project →</a>
+      </div>
+      <div style="background: white; padding: 20px; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+        <h4 style="color: #333;">📱 Your Finance App</h4>
+        <p style="color: #444;">한국은행 API 활용 앱</p>
+        <a href="https://github.com/roypower6/your_finance" style="color: #155799;" target="_blank">View Project →</a>
+      </div>
+      <div style="background: white; padding: 20px; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+        <h4 style="color: #333;">📱 Where and Weather</h4>
+        <p style="color: #444;">OpenWeatherMap Free Plan 활용 날씨 확인 앱</p>
+        <a href="https://github.com/roypower6/Where-and-Weather" style="color: #155799;" target="_blank">View Project →</a>
+      </div>
+      <div style="background: white; padding: 20px; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+        <h4 style="color: #333;">📱 My Movie Base</h4>
+        <p style="color: #444;">TMDB API를 이용한 영화 추천, 검색 앱</p>
+        <a href="https://github.com/roypower6/My-Movie-Base" style="color: #155799;" target="_blank">View Project →</a>
+      </div>
+      <div style="background: white; padding: 20px; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+        <h4 style="color: #333;">📱 Will</h4>
+        <p style="color: #444;">간단한 Todo 메모 앱</p>
+        <a href="https://github.com/roypower6/Will" style="color: #155799;" target="_blank">View Project →</a>
+      </div>
+    </div>
+  </div>
+
+  <div>
+    <h3 style="color: #155799; border-bottom: 2px solid #155799; padding-bottom: 10px;">Python Projects</h3>
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; padding: 20px 0;">
+      <div style="background: white; padding: 20px; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+        <h4 style="color: #333;">🌐 Web Status Checker</h4>
+        <p style="color: #444;">http 공부용 프로젝트</p>
+        <a href="https://github.com/roypower6/NomadCoder-Python-Lecture/blob/main/URL_Checker.py" style="color: #155799;" target="_blank">View Project →</a>
+      </div>
+      <div style="background: white; padding: 20px; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+        <h4 style="color: #333;">✏️ Solved.ac API Study</h4>
+        <ul style="list-style-type: none; padding-left: 0; color: #444;">
+          <li>• Solved.ac Ranking Viewer</li>
+          <li>• Profile Viewer</li>
+          <li>• Coin Exchange Rate Viewer</li>
+          <li>• Problem Search Program</li>
+        </ul>
+        <a href="https://github.com/roypower6/Solved.ac-API-Study" style="color: #155799;" target="_blank">View Project →</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div style="text-align: center;">
+  <div style="padding: 40px 20px; width: 100%; display: flex; flex-direction: column; align-items: center; justify-content: center;">
+    <p style="font-size: 16px; color: #000; margin: 0;">© 2024 Rhee's Portfolio. All rights reserved.</p>
+    <p style="font-size: 14px; color: #000; margin: 10px 0 0 0;">
+      Powered by Github | Made with ❤️ using Markdown
     </p>
   </div>
 </div>
