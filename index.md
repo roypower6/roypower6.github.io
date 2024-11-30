@@ -82,8 +82,13 @@
     <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; padding: 20px 0;">
       <div style="background: white; padding: 20px; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
         <h4 style="color: #333;">📱 Solved.ac Viewer App</h4>
-        <p style="color: #444;">코딩 문제 해결 현황 확인 앱(Baekjoon Online Judge, Solved.ac)</p>
+        <p style="color: #444;">코딩 문제 해결 현황 확인 앱 (Baekjoon Online Judge, Solved.ac)</p>
         <a href="https://github.com/roypower6/Solved.ac-Viewer" style="color: #155799;" target="_blank">View Project →</a>
+      </div>
+      <div style="background: white; padding: 20px; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+        <h4 style="color: #333;">📱 My Movie Base</h4>
+        <p style="color: #444;">TMDB API를 이용한 영화 추천, 검색 앱</p>
+        <a href="https://github.com/roypower6/my_movie_base" style="color: #155799;" target="_blank">View Project →</a>
       </div>
       <div style="background: white; padding: 20px; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
         <h4 style="color: #333;">📱 Your Finance App</h4>
@@ -94,11 +99,6 @@
         <h4 style="color: #333;">📱 Where and Weather</h4>
         <p style="color: #444;">OpenWeatherMap Free Plan 활용 날씨 확인 앱</p>
         <a href="https://github.com/roypower6/Where-and-Weather" style="color: #155799;" target="_blank">View Project →</a>
-      </div>
-      <div style="background: white; padding: 20px; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
-        <h4 style="color: #333;">📱 My Movie Base</h4>
-        <p style="color: #444;">TMDB API를 이용한 영화 추천, 검색 앱</p>
-        <a href="https://github.com/roypower6/My-Movie-Base" style="color: #155799;" target="_blank">View Project →</a>
       </div>
       <div style="background: white; padding: 20px; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
         <h4 style="color: #333;">📱 Will</h4>
