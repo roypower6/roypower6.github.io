@@ -87,8 +87,18 @@
       </div>
       <div style="background: white; padding: 20px; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
         <h4 style="color: #333;">📱 My Movie Base</h4>
-        <p style="color: #444;">TMDB API를 이용한 영화 추천, 검색 앱</p>
+        <p style="color: #444;">TMDB API를 이용한 영화 추천, 검색 및 관심 영화 저장, 영화 상세 정보 확인 앱</p>
         <a href="https://github.com/roypower6/my_movie_base" style="color: #155799;" target="_blank">View Project →</a>
+      </div>
+      <div style="background: white; padding: 20px; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+        <h4 style="color: #333;">📱 Wayhow</h4>
+        <p style="color: #444;">개발자들의 아이디어들의 아이디어를 바로 적어 놓을 수 있도록 만든 전용 메모 앱</p>
+        <a href="https://github.com/roypower6/Wayhow" style="color: #155799;" target="_blank">View Project →</a>
+      </div>
+      <div style="background: white; padding: 20px; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+        <h4 style="color: #333;">📱 Will</h4>
+        <p style="color: #444;">간단하게 할 일을 적어 놓을 수 있는 Todo 메모 앱</p>
+        <a href="https://github.com/roypower6/Will" style="color: #155799;" target="_blank">View Project →</a>
       </div>
       <div style="background: white; padding: 20px; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
         <h4 style="color: #333;">📱 Your Finance App</h4>
@@ -99,11 +109,6 @@
         <h4 style="color: #333;">📱 Where and Weather</h4>
         <p style="color: #444;">OpenWeatherMap Free Plan 활용 날씨 확인 앱</p>
         <a href="https://github.com/roypower6/Where-and-Weather" style="color: #155799;" target="_blank">View Project →</a>
-      </div>
-      <div style="background: white; padding: 20px; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
-        <h4 style="color: #333;">📱 Will</h4>
-        <p style="color: #444;">간단한 Todo 메모 앱</p>
-        <a href="https://github.com/roypower6/Will" style="color: #155799;" target="_blank">View Project →</a>
       </div>
     </div>
   </div>
