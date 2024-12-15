@@ -56,21 +56,19 @@
 </div>
 
 <div style="background: linear-gradient(120deg, #155799, #159957); padding: 40px 20px; border-radius: 15px; margin: 30px 0;">
-  <h2 align="center" style="color: white; margin-bottom: 30px;">💪 Skills & Tools</h2>
-  
-  <div align="center" style="margin-bottom: 30px;">
-    <h3 style="color: white;">Development Tools</h3>
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" alt="Git">
-    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white" alt="VS Code">
-    <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=Android%20Studio&logoColor=white" alt="Android Studio">
+  <h2 align="center" style="color: white; margin-bottom: 30px;">💪 Skills</h2>
+  <div align="center">
+    <h3 style="color: white;">Languages</h3>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white" alt="Dart">
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white" alt="Go">
+    <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=white" alt="Rust">
+
   </div>
 
   <div align="center">
-    <h3 style="color: white;">Languages & Frameworks</h3>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" alt="Python">
+    <h3 style="color: white;">Frameworks</h3>
     <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white" alt="Flutter">
-    <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white" alt="Dart">
-    <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white" alt="Markdown">
   </div>
 </div>
 
